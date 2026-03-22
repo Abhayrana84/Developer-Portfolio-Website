@@ -5,8 +5,7 @@
 
 This repository contains the source code for my **personal developer portfolio website**, where I showcase my projects, skills, and experience as a frontend developer.
 
-🚀 **Live Website:**
-👉 [[https://portfolio-six-theta-37.vercel.app/](https://portfolio-six-theta-37.vercel.app/)](https://developer-portfolio-website-b4i5.onrender.com/)
+🚀 (https://developer-portfolio-website-b4i5.onrender.com/)
 
 ---
 
