@@ -52,7 +52,7 @@ This portfolio was built to showcase:
 
 **Deployment**
 
-* Vercel
+* Render
 
 ---
 
